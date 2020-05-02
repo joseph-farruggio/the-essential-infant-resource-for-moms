@@ -1,0 +1,352 @@
+# the-essential-infant-resource-for-moms.com (Fri Oct 27 12:44:18 2017)
+
+Sitemap: http://www.the-essential-infant-resource-for-moms.com/HFXD2WrT.xml
+
+User-agent: Googlebot
+Disallow: /dyn/
+Disallow: /objects/
+Crawl-delay: 30
+
+User-agent: msnbot
+Disallow: /cgi-bin/
+Disallow: /bin/
+Disallow: /dyn/
+Disallow: /objects/
+Crawl-delay: 30
+
+User-agent: Slurp
+Disallow: /cgi-bin/
+Disallow: /bin/
+Disallow: /dyn/
+Disallow: /objects/
+Crawl-delay: 30
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /bin/
+Disallow: /dyn/
+Disallow: /objects/
+
+User-agent: *
+Disallow: /_Recall-Reports.html
+
+User-agent: *
+Disallow: /2008-Halloween-Contest.html
+
+User-agent: *
+Disallow: /2009-Halloween-Contest.html
+
+User-agent: *
+Disallow: /About-Me.html
+
+User-agent: *
+Disallow: /Adsense-C2.html
+
+User-agent: *
+Disallow: /Advertising.html
+
+User-agent: *
+Disallow: /Alternative-SBI-Ad.html
+
+User-agent: *
+Disallow: /Baby_Bargains-thankyou.html
+
+User-agent: *
+Disallow: /Baby-Bargains.html
+
+User-agent: *
+Disallow: /Baby-Imprint.html
+
+User-agent: *
+Disallow: /Books-Activities.html
+
+User-agent: *
+Disallow: /Books-Baby-Food.html
+
+User-agent: *
+Disallow: /Books-Boardbooks.html
+
+User-agent: *
+Disallow: /Books-Breastfeed.html
+
+User-agent: *
+Disallow: /Books-General.html
+
+User-agent: *
+Disallow: /Books-Health.html
+
+User-agent: *
+Disallow: /Books-Humor.html
+
+User-agent: *
+Disallow: /Books-Shopping.html
+
+User-agent: *
+Disallow: /Bookstore.html
+
+User-agent: *
+Disallow: /Books-Weight.html
+
+User-agent: *
+Disallow: /confirmation-sbi-zine.html
+
+User-agent: *
+Disallow: /Contact_Me-thankyou.html
+
+User-agent: *
+Disallow: /Contact-Me.html
+
+User-agent: *
+Disallow: /Green-Guru.html
+
+User-agent: *
+Disallow: /Halloween_Contest-thankyou.html
+
+User-agent: *
+Disallow: /Halloween_Voting-thankyou.html
+
+User-agent: *
+Disallow: /Halloween-Contest-Upload.html
+
+User-agent: *
+Disallow: /Infant-Search.html
+
+User-agent: *
+Disallow: /Infant-Search-Results.html
+
+User-agent: *
+Disallow: /Merry_Mother100609.html
+
+User-agent: *
+Disallow: /Merry_Mother120109.html
+
+User-agent: *
+Disallow: /Merry_MotherCoverPage.html
+
+User-agent: *
+Disallow: /Merry_MotherPage2.html
+
+User-agent: *
+Disallow: /Merry_MotherPage3.html
+
+User-agent: *
+Disallow: /Merry_MotherPage4.html
+
+User-agent: *
+Disallow: /Merry_MotherPage5.html
+
+User-agent: *
+Disallow: /Merry_MotherPage6.html
+
+User-agent: *
+Disallow: /Merry_MotherPage7.html
+
+User-agent: *
+Disallow: /Merry_Mother0108.html
+
+User-agent: *
+Disallow: /Merry_Mother0208.html
+
+User-agent: *
+Disallow: /Merry_Mother0308.html
+
+User-agent: *
+Disallow: /Merry_Mother020309.html
+
+User-agent: *
+Disallow: /Merry_Mother030309.html
+
+User-agent: *
+Disallow: /Merry_Mother040408.html
+
+User-agent: *
+Disallow: /Merry_Mother040709.html
+
+User-agent: *
+Disallow: /Merry_Mother050509.html
+
+User-agent: *
+Disallow: /Merry_Mother050608.html
+
+User-agent: *
+Disallow: /Merry_Mother060209.html
+
+User-agent: *
+Disallow: /Merry_Mother060308.html
+
+User-agent: *
+Disallow: /Merry_Mother070108.html
+
+User-agent: *
+Disallow: /Merry_Mother080409.html
+
+User-agent: *
+Disallow: /Merry_Mother080508.html
+
+User-agent: *
+Disallow: /Merry_Mother090208.html
+
+User-agent: *
+Disallow: /Merry_Mother100608.html
+
+User-agent: *
+Disallow: /Merry_Mother110408.html
+
+User-agent: *
+Disallow: /Merry_Mother120208.html
+
+User-agent: *
+Disallow: /MM_Feature_Survey-thankyou.html
+
+User-agent: *
+Disallow: /MMFeedback.html
+
+User-agent: *
+Disallow: /Mom-Moment.html
+
+User-agent: *
+Disallow: /Newsletter-Archives.html
+
+User-agent: *
+Disallow: /no-such-url.html
+
+User-agent: *
+Disallow: /Privacy-Policy.html
+
+User-agent: *
+Disallow: /RR_Bassinets-thankyou.html
+
+User-agent: *
+Disallow: /RR_Bathtubs-thankyou.html
+
+User-agent: *
+Disallow: /RR_Bedding-thankyou.html
+
+User-agent: *
+Disallow: /RR_Bouncers-thankyou.html
+
+User-agent: *
+Disallow: /RR_Car_Seats-thankyou.html
+
+User-agent: *
+Disallow: /RR_Carrier-thankyou.html
+
+User-agent: *
+Disallow: /RR_Clothes-thankyou.html
+
+User-agent: *
+Disallow: /RR_Cribs-thankyou.html
+
+User-agent: *
+Disallow: /RR_Furniture-thankyou.html
+
+User-agent: *
+Disallow: /RR_High_Chairs-thankyou.html
+
+User-agent: *
+Disallow: /RR_Medicine-thankyou.html
+
+User-agent: *
+Disallow: /RR_Nursing-thankyou.html
+
+User-agent: *
+Disallow: /RR_Pacifiers-thankyou.html
+
+User-agent: *
+Disallow: /RR_Playpens-thankyou.html
+
+User-agent: *
+Disallow: /RR_Strollers-thankyou.html
+
+User-agent: *
+Disallow: /RR_Swings-thankyou.html
+
+User-agent: *
+Disallow: /RR_Toys_-thankyou.html
+
+User-agent: *
+Disallow: /RR_Walkers-thankyou.html
+
+User-agent: *
+Disallow: /RR-Bassinets.html
+
+User-agent: *
+Disallow: /RR-Bathtubs.html
+
+User-agent: *
+Disallow: /RR-Bedding.html
+
+User-agent: *
+Disallow: /RR-Bouncer.html
+
+User-agent: *
+Disallow: /RR-Car-Seat.html
+
+User-agent: *
+Disallow: /RR-Clothes.html
+
+User-agent: *
+Disallow: /RR-Cribs.html
+
+User-agent: *
+Disallow: /RR-Formula.html
+
+User-agent: *
+Disallow: /RR-Formula-thankyou.html
+
+User-agent: *
+Disallow: /RR-Furniture.html
+
+User-agent: *
+Disallow: /RR-High-Chairs.html
+
+User-agent: *
+Disallow: /RR-Medicine.html
+
+User-agent: *
+Disallow: /RR-Nursing.html
+
+User-agent: *
+Disallow: /RR-Pacifiers.html
+
+User-agent: *
+Disallow: /RR-Playpen.html
+
+User-agent: *
+Disallow: /RR-Slings.html
+
+User-agent: *
+Disallow: /RR-Strollers.html
+
+User-agent: *
+Disallow: /RR-Swings.html
+
+User-agent: *
+Disallow: /RR-Toys.html
+
+User-agent: *
+Disallow: /RR-Walkers.html
+
+User-agent: *
+Disallow: /Sample-Newsletter.html
+
+User-agent: *
+Disallow: /Share-This-Site.html
+
+User-agent: *
+Disallow: /Subs780308rjbm.html
+
+User-agent: *
+Disallow: /Tea-Time.html
+
+User-agent: *
+Disallow: /Thanks-Paypal.html
+
+User-agent: *
+Disallow: /thank-you-sbi-zine.html
+
+User-agent: *
+Disallow: /Whitelist.html
+
+User-agent: *
+Disallow: /Advertising-thankyou.html
